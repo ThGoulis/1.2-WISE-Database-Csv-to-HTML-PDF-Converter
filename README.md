@@ -1,4 +1,4 @@
-# 📊 CSV to HTML/PDF Converter
+# 📊 CSV to HTML and PDF Converter 
 
 ## 📌 Project Overview
 This project provides a **GUI-based tool** for converting CSV data into **HTML reports with graphs** and optionally exporting them to **PDF**. It is designed for handling **WISE water data** but can be adapted for other datasets.
