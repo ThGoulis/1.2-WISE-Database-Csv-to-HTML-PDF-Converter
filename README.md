@@ -17,7 +17,7 @@ This project provides a **GUI-based tool** for converting CSV data into **HTML r
 ## 🛠️ Installation
 ### 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/ThGoulis/1.2-WISE-Database-Csv-to-PDF-Converter.git
+git clone https://github.com/ThGoulis/1.2-WISE-Database-Csv-to-HTML-PDF-Converter.git
 cd CSV-HTML-PDF-Converter
 ```
 
