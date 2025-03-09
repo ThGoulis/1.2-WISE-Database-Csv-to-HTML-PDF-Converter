@@ -17,7 +17,7 @@ This project provides a **GUI-based tool** for converting CSV data into **HTML r
 ## 🛠️ Installation
 ### 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/ThGoulis/CSV-HTML-PDF-Converter.git
+git clone https://github.com/ThGoulis/1.2-WISE-Database-Csv-to-PDF-Converter.git
 cd CSV-HTML-PDF-Converter
 ```
 
@@ -86,5 +86,5 @@ Pull requests are welcome! Feel free to submit issues and suggestions.
 ---
 
 ## 📝 License
-MIT License. See `LICENSE` file for details.
+This project is licensed under the GNU Affero General Public License v3.0. See the LICENSE file for details.
 
